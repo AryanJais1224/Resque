@@ -61,7 +61,15 @@ The primary engineering goal is to build a resilient, failure-tolerant emergency
 
 # Application User Interface
 
-Screenshots coming soon.
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9dfdafd7-5f1d-44b8-8874-30998278f0ff" width="48%" />
+  <img src="https://github.com/user-attachments/assets/109e714a-3c0e-4907-8c8e-0c61e8fcb7a3" width="48%" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/2e12e8e9-ece4-4282-a971-d6447ec5f2bb" width="48%" />
+  <img src="https://github.com/user-attachments/assets/ee1d1fb9-eb8f-48d6-ad6f-7e574b7f7b2d" width="48%" />
+</p>
 
 ---
 
