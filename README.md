@@ -20,8 +20,8 @@
 - [System Architecture](#system-architecture)
 - [Engineering Decisions](#engineering-decisions)
 - [Installation & Running the Project](#installation--running-the-project)
-- [License](#-license)
-- [Author](#-author)
+- [License](#license)
+- [Author](#author)
 
 ---
 
@@ -127,7 +127,7 @@ Installation guidelines will be added soon.
 
 
 
-# 📄 License
+# License
 
 Distributed under the **MIT License**.
 
@@ -135,7 +135,7 @@ See the `LICENSE` file for more information.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aryan Jaiswal**
 
