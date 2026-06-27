@@ -61,9 +61,11 @@ The primary engineering goal is to build a resilient, failure-tolerant emergency
 
 # Application User Interface
 
-<img width="720" height="1600" alt="Resque1" src="https://github.com/user-attachments/assets/9dfdafd7-5f1d-44b8-8874-30998278f0ff" />
-<img width="524" height="1062" alt="Resque3" src="https://github.com/user-attachments/assets/2e12e8e9-ece4-4282-a971-d6447ec5f2bb" /> 
-<img width="522" height="1036" alt="Resque4" src="https://github.com/user-attachments/assets/ee1d1fb9-eb8f-48d6-ad6f-7e574b7f7b2d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9dfdafd7-5f1d-44b8-8874-30998278f0ff" width="280"/>
+  <img src="https://github.com/user-attachments/assets/2e12e8e9-ece4-4282-a971-d6447ec5f2bb" width="280"/>
+  <img src="https://github.com/user-attachments/assets/ee1d1fb9-eb8f-48d6-ad6f-7e574b7f7b2d" width="280"/>
+</p>
 
 ---
 
