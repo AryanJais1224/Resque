@@ -19,7 +19,6 @@
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
 - [Engineering Decisions](#engineering-decisions)
-- [Installation & Running the Project](#installation--running-the-project)
 - [License](#license)
 - [Author](#author)
 
@@ -96,7 +95,11 @@ Demo video will be added.
 
 # System Architecture
 
-Architecture diagram will be added soon.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/021403d9-5d68-4e48-a663-f1d89ca1baf4"
+       alt="High Level Design"
+       width="100%">
+</p>
 
 ---
 
@@ -118,14 +121,6 @@ This system is designed around high-throughput event processing, spatial correct
 | Async FastAPI gateway | Supports concurrent ingestion of multiple SOS streams with minimal blocking |
 
 ---
-
-# Installation & Running the Project
-
-Installation guidelines will be added soon.
-
----
-
-
 
 # License
 
