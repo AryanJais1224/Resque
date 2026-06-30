@@ -15,7 +15,6 @@
 
 - [Overview](#overview)
 - [Application User Interface](#application-user-interface)
-- [Demo Video](#demo-video)
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
 - [Engineering Decisions](#engineering-decisions)
@@ -65,12 +64,6 @@ The primary engineering goal is to build a resilient, failure-tolerant emergency
   <img src="https://github.com/user-attachments/assets/2e12e8e9-ece4-4282-a971-d6447ec5f2bb" width="250" height="540" alt="Chat Screen"/>
   <img src="https://github.com/user-attachments/assets/ee1d1fb9-eb8f-48d6-ad6f-7e574b7f7b2d" width="250" height="540" alt="Profile Screen"/>
 </p>
-
----
-
-# Demo Video
-
-Demo video will be added.
 
 ---
 
